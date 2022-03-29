@@ -1,7 +1,7 @@
 {
-    "versionCode": 1,
-    "versionName": "0.0.1 - 测试版",
-    "versionContent": "Bog 岛第三方客户端测试版",
-    "versionTime": "2022-3-27",
-    "versionUrl": "http://bog.ac"
+    "versionCode": 2,
+    "versionName": "0.0.2 - 测试版",
+    "versionContent": "更新内容：\n - 修复了收藏页面状态刷新错误\n - 修复了收藏页面页高不合适导致的遮挡\n - 修复了回复串后内容加载的错误\n - 修复其它各种bug \n此版本以修复重要bug为主，下个版本将加入楼层跳转、高亮Po等功能，如果bug不多的话，预计下周发布\n\n若再有出现收藏页面异常，可尝试清除应用全部数据后重新载入\n注意做好主饼干备份，且本地收藏内容会因此消失，给博哥们先道个歉\n\n无法安装的机型可尝试在串内下载32位版本",
+    "versionTime": "2022-3-30",
+    "versionUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-eba09936-68fb-4b89-bada-83aed16df0c9/65037c1e-bdf4-41e5-b459-141d4db1dbd0.apk"
 }
