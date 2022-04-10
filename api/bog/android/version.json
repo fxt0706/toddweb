@@ -1,7 +1,7 @@
 {
-    "versionCode": 3,
-    "versionName": "0.0.3 - 测试版",
-    "versionContent": "更新内容：\n - 修复了状态刷新错误导致的串内文本重复显示\n - 新增了主饼干导出功能，点击主饼干即可拷贝至剪贴板\n - 新增了串内Po主标识\n - 新增了仅显示Po主内容功能\n\n无法安装的机型可尝试在串内下载32位版本",
-    "versionTime": "2022-3-30",
-    "versionUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-eba09936-68fb-4b89-bada-83aed16df0c9/fa0f6c58-6ac7-46e0-860c-d988655e2dd7.apk"
+    "versionCode": 4,
+    "versionName": "0.0.4 - 海岛测试版",
+    "versionContent": "更新内容：\n - Po文内控件优化\n - 新增Po文内跳转楼层功能\n\n无法安装的机型可尝试在串内下载32位版本",
+    "versionTime": "2022-4-10",
+    "versionUrl": "https://vkceyugu.cdn.bspapp.com/VKCEYUGU-eba09936-68fb-4b89-bada-83aed16df0c9/60ea61f5-709a-40b2-ad66-5ee8052b444e.apk"
 }
